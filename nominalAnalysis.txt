@@ -1,0 +1,7 @@
+./sensorNominal.txt
+479 Tested
+
+Maximum Noise: 15.2
+Average Noise: 0.20939457202505227
+Standard Deviation: 5.281845008122107
+Variance: 27.897886689824425

@@ -1,0 +1,7 @@
+./voter1+2.txt
+409 Tested
+
+Maximum Noise: 7.0
+Average Noise: -0.7454767726161374
+Standard Deviation: 3.509893154507976
+Variance: 12.319349956061952

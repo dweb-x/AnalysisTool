@@ -1,0 +1,7 @@
+./avg1+3.txt
+518 Tested
+
+Maximum Noise: 28.9
+Average Noise: 4.427992277992276
+Standard Deviation: 9.030792893947718
+Variance: 81.55522029337658

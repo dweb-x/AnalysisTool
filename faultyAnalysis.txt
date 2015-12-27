@@ -1,0 +1,7 @@
+./sensorFaulty.txt
+1005 Tested
+
+Maximum Noise: 146.0
+Average Noise: 29.114427860696527
+Standard Deviation: 53.494499468906845
+Variance: 2861.6614734288746
